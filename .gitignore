@@ -1,0 +1,12 @@
+# PyCharm & IDE configuration files
+.idea/
+.vscode/
+
+# Environment files & secret keys
+.env
+.env.local
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
